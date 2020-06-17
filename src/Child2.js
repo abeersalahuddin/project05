@@ -1,4 +1,5 @@
 import React, { useReducer } from 'react';
+import CounterContext from './CounterContext';
 import CounterReducer from './CounterReducer';
 
 
